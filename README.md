@@ -60,7 +60,7 @@ I enjoy exploring new technologies, solving problems, and building things that g
 
 **TOOLS & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,kiro&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash&theme=dark" alt="Development tools"/>
 
 </div>
 
