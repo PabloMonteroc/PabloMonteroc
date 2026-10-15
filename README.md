@@ -52,15 +52,15 @@ I enjoy exploring new technologies, solving problems, and building things that g
 
 **BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgres,mysql,prisma&theme=dark" alt="Backend technologies"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma&theme=dark" alt="Backend technologies"/>
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="Frontend technologies"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies"/>
 
 **TOOLS & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=linux,fedora,git,github,docker,aws,bash,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,bash,kiro&theme=dark" alt="Development tools"/>
 
 </div>
 
