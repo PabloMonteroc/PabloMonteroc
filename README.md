@@ -18,7 +18,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-050505?style=flat-square&logo=github&logoColor=white)](https://github.com/PabloMonteroC)
-[![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=white)](https://fedoraproject.org/)
+[![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=white)](https://fedoraproject.org/es/kde/)
 [![Java](https://img.shields.io/badge/Java-050505?style=flat-square&logo=openjdk&logoColor=white)](https://dev.java/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
