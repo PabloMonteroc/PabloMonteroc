@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:171717,100:303030&height=180&section=header&text=PabloMonteroC&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Linux&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Pablo Montero banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:171717,100:303030&height=180&section=header&text=PabloMontero&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Linux&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Pablo Montero banner"/>
 
 <br/>
 
